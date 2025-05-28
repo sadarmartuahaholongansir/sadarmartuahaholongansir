@@ -60,7 +60,7 @@ nav .logo img {
 nav .menu {
   float: right;
   height: 60px;
-  max-width: 600px;
+  max-width: none;
 }
 
 nav .menu ul {
